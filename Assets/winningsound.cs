@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class WinningSound : MonoBehaviour
+public class winningSound : MonoBehaviour
 {
     private AudioManager audioManager;
 

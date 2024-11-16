@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{819BD2CE-6501-CBA8-9939-BA6E42E89256}|Assembly-CSharp.csproj|c:\\users\\ashwa\\onedrive\\desktop\\burnoutgame-main\\assets\\nextlevelscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{819BD2CE-6501-CBA8-9939-BA6E42E89256}|Assembly-CSharp.csproj|c:\\users\\ashwa\\onedrive\\desktop\\burnoutgame-main\\assets\\persistentmusic1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819BD2CE-6501-CBA8-9939-BA6E42E89256}|Assembly-CSharp.csproj|solutionrelative:assets\\persistentmusic1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819BD2CE-6501-CBA8-9939-BA6E42E89256}|Assembly-CSharp.csproj|c:\\users\\ashwa\\onedrive\\desktop\\burnoutgame-main\\assets\\winsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819BD2CE-6501-CBA8-9939-BA6E42E89256}|Assembly-CSharp.csproj|solutionrelative:assets\\winsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819BD2CE-6501-CBA8-9939-BA6E42E89256}|Assembly-CSharp.csproj|c:\\users\\ashwa\\onedrive\\desktop\\burnoutgame-main\\assets\\scenes\\memorygame\\scripts\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819BD2CE-6501-CBA8-9939-BA6E42E89256}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\memorygame\\scripts\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819BD2CE-6501-CBA8-9939-BA6E42E89256}|Assembly-CSharp.csproj|c:\\users\\ashwa\\onedrive\\desktop\\burnoutgame-main\\assets\\winningsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819BD2CE-6501-CBA8-9939-BA6E42E89256}|Assembly-CSharp.csproj|solutionrelative:assets\\winningsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819BD2CE-6501-CBA8-9939-BA6E42E89256}|Assembly-CSharp.csproj|C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\assets\\nextlevelscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{819BD2CE-6501-CBA8-9939-BA6E42E89256}|Assembly-CSharp.csproj|solutionrelative:assets\\nextlevelscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819BD2CE-6501-CBA8-9939-BA6E42E89256}|Assembly-CSharp.csproj|C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\assets\\scenecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819BD2CE-6501-CBA8-9939-BA6E42E89256}|Assembly-CSharp.csproj|solutionrelative:assets\\scenecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{819BD2CE-6501-CBA8-9939-BA6E42E89256}|Assembly-CSharp.csproj|C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\assets\\scenes\\menu buttons\\backtomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,24 +58,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NextLevelScene.cs",
-              "DocumentMoniker": "C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\Assets\\NextLevelScene.cs",
-              "RelativeDocumentMoniker": "Assets\\NextLevelScene.cs",
-              "ToolTip": "C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\Assets\\NextLevelScene.cs",
-              "RelativeToolTip": "Assets\\NextLevelScene.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "DocumentIndex": 2,
+              "Title": "SceneController.cs",
+              "DocumentMoniker": "C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\Assets\\Scenes\\memorygame\\Scripts\\SceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\memorygame\\Scripts\\SceneController.cs",
+              "ToolTip": "C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\Assets\\Scenes\\memorygame\\Scripts\\SceneController.cs",
+              "RelativeToolTip": "Assets\\Scenes\\memorygame\\Scripts\\SceneController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAvwHQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T13:06:34.003Z",
+              "WhenOpened": "2024-11-16T18:16:43.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersistentMusic1.cs",
+              "DocumentMoniker": "C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\Assets\\PersistentMusic1.cs",
+              "RelativeDocumentMoniker": "Assets\\PersistentMusic1.cs",
+              "ToolTip": "C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\Assets\\PersistentMusic1.cs",
+              "RelativeToolTip": "Assets\\PersistentMusic1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:08:02.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "WinSound.cs",
+              "DocumentMoniker": "C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\Assets\\WinSound.cs",
+              "RelativeDocumentMoniker": "Assets\\WinSound.cs",
+              "ToolTip": "C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\Assets\\WinSound.cs",
+              "RelativeToolTip": "Assets\\WinSound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:43:20.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "winningsound.cs",
+              "DocumentMoniker": "C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\Assets\\winningsound.cs",
+              "RelativeDocumentMoniker": "Assets\\winningsound.cs",
+              "ToolTip": "C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\Assets\\winningsound.cs",
+              "RelativeToolTip": "Assets\\winningsound.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:42:29.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SceneControl.cs",
+              "DocumentMoniker": "C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\Assets\\SceneControl.cs",
+              "RelativeDocumentMoniker": "Assets\\SceneControl.cs",
+              "ToolTip": "C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\Assets\\SceneControl.cs",
+              "RelativeToolTip": "Assets\\SceneControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:56:57.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NextLevelScene.cs",
+              "DocumentMoniker": "C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\Assets\\NextLevelScene.cs",
+              "RelativeDocumentMoniker": "Assets\\NextLevelScene.cs",
+              "ToolTip": "C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\Assets\\NextLevelScene.cs",
+              "RelativeToolTip": "Assets\\NextLevelScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:06:34.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "BackToMain.cs",
               "DocumentMoniker": "C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\Assets\\Scenes\\Menu buttons\\BackToMain.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\Menu buttons\\BackToMain.cs",
@@ -67,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "CreditsScroll.cs",
               "DocumentMoniker": "C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\Assets\\Scenes\\Credits_Page\\Scripts\\CreditsScroll.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\Credits_Page\\Scripts\\CreditsScroll.cs",
@@ -79,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "InstructionManager.cs",
               "DocumentMoniker": "C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\Assets\\Scenes\\BookGame\\Scripts\\InstructionManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\BookGame\\Scripts\\InstructionManager.cs",
@@ -91,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Pencil_Script.cs",
               "DocumentMoniker": "C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\Assets\\Pencil_Script.cs",
               "RelativeDocumentMoniker": "Assets\\Pencil_Script.cs",
@@ -103,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "NegativeItem.cs",
               "DocumentMoniker": "C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\Assets\\Scenes\\BookGame\\Scripts\\NegativeItem.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\BookGame\\Scripts\\NegativeItem.cs",
@@ -115,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "SpawnManager.cs",
               "DocumentMoniker": "C:\\Users\\ashwa\\OneDrive\\Desktop\\burnoutgame-main\\Assets\\Scenes\\BookGame\\Scripts\\SpawnManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\BookGame\\Scripts\\SpawnManager.cs",
