@@ -11,7 +11,7 @@ public class SceneControl : MonoBehaviour
     public void GoBackToMenu()
     {
         //SceneManager.LoadScene("Game_ui");
-        SceneManager.LoadSceneAsync(1);
+        SceneManager.LoadSceneAsync(0);
 
     }
 }
